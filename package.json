@@ -1,0 +1,29 @@
+{
+  "name": "nodetypescriptdemo",
+  "version": "0.0.1",
+  "description": "demo of node.js app with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "tsc": "tsc",
+    "build": "build",
+    "run": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webberr/nodetypescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "node"
+  ],
+  "author": "Ryan Webber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webberr/nodetypescript/issues"
+  },
+  "homepage": "https://github.com/webberr/nodetypescript#readme",
+  "dependencies": {
+    "typescript": "^3.3.3"
+  }
+}
